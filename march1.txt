@@ -1,0 +1,23 @@
+1. Having empty space on the left side in all pages, feedback button needs to disply above the back screen now it have seprate space right side remove it refer 1.png
+2. message try not working on android 5 inch device refer 2.png
+3. Profile page Cover image not responsive its strech in mobile screens refer 2.png
+4. Profile page 4 Tabs not working on andorid 5 inch device refer 4.png
+5. Message try top showing 3 messages we click read, after that also showing 3 as message. count not reduce refer 5.png
+6. All pages geting loading very slow refer 6.png
+7. Search result having filters not working refer 7.png
+8. message page messaging design broken refer 8.png
+9. Message page attachment and send button design broken refer 9.png
+10. Notification page alignment not in proper format, profile image need to come left side and name and message need to align right side in the notification page refer 10.png
+11. social home page like for the comment count not working properly refer attached screenshot 11.png
+12. privacy settings page design gets broken refer 12.png
+13. Deactivating user option not found on privacy settings page refer 12.png
+14. Groups page displaying empty page in android 5 inch mobile device refer 14.png 
+15. Menu bar after selecting particular page menu need to hide and display the page, now menu not hide refer 15.png
+16. Search bar in top getting broken with message tray in design refer 15.png
+
+
+Apple device ipod 
+17. feedback form after login get broken in design 
+18. login / logout not able to done in ipod device 
+19. Top search bar broken in ipod device 
+20. Menu bar after selecting particular page menu need to hide and display the page, now menu not hide.
